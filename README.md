@@ -28,9 +28,12 @@ Score of -1 is 0 since pre-annotated data had no -1 labels.
 
 3. Confusion matrix evaluated as follows:
 
-class -1:     [   0,    0,    0],
-class  0:     [  25, 4082,   98],
-class  1:     [   4,   35,  756]
+| __-1__ | __0__ | __1__ |
+|-------------|------------|------------|
+| 0         | 0     | 0      |
+| 25         | 4082 | 98     |
+|  4          | 35  | 756      |  
+
 
 So in total misclassified 'ORG' labels are 39.
 
