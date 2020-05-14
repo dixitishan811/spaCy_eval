@@ -35,7 +35,7 @@ Score of -1 is 0 since pre-annotated data had no -1 labels.
 |  4          | 35  | 756      |  
 
 
-So in total correct classification of 'ORG' labels are **756** and misclassification of 'ORG' labels are **39**.
+So in total correct classification of 'ORG' labels are **4082** and misclassification of 'ORG' labels are **35**.
 
 4. ROC : 
 
