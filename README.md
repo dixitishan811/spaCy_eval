@@ -12,6 +12,7 @@
 3. F1 score
 4. Confusion matrix
 
+##Progress so far
 
 I annotated the OntoNotes dataset using spacy NER, then treating the pre-annotations in the dataset as labels for performance and accuracy evaluation.
 Since we have to focus on only organization labelling, I divided the labels into 3 categories -1,0,1
