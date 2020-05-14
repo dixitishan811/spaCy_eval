@@ -1,4 +1,4 @@
-# spacy_eval
+# Outcomes and methods
 
 ## Datasets Used :
 
