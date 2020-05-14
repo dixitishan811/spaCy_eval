@@ -40,7 +40,7 @@ fpr : [0.        , 0.02330559, 0.9940547 , 1.        ]
 tpr : [0.        , 0.9509434 , 0.99496855, 1.        ]
 
 
-**Currently simplified enron data in readable dataframe **
+**Currently simplified enron data in readable dataframe**
 
 ## To do
 
