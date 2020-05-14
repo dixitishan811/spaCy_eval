@@ -33,7 +33,7 @@ class  1:     [   4,   35,  756]
 
 So in total misclassified 'ORG' labels are 39.
 
-4.ROC : 
+4. ROC : 
 
 fpr : [0.        , 0.02330559, 0.9940547 , 1.        ]
 
@@ -53,7 +53,7 @@ Further simplification of enron dataset is needed to properly evaluate spacy's p
 
 2. The documentaion of organization  can be improved by adding some research institutes and scientific publications such as Astrobiology Journal.
 
-3.Some of the errors made were due to I  missing context.
+3. Some of the errors made were due to I  missing context.
 
 
 
