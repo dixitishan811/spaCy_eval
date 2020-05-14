@@ -2,10 +2,10 @@
 
 ## Datasets Used :
 
-1. Enron emails (https://www.cs.cmu.edu/~enron)
+1. Enron emails - https://www.cs.cmu.edu/~enron
 2. OntoNotes 5.0
 ## Tools :
-spaCy(v2.2.4)
+spaCy(v2.2.4) - https://spacy.io/
 ## Evaluation metrics used:
 
 1. Accuracy score
