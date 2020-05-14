@@ -15,8 +15,8 @@
 ## Progress so far
 
 I have annotated the OntoNotes dataset using spacy NER, then treating the pre-annotations in the dataset as labels for performance and accuracy evaluation.
-Since we have to focus on only organization labelling, I divided the labels into three categories **-1, 0, 1**
-where -1 means spacey didn’t  give any entity name to the sentence,0 where the entity label was not ORG and 1 where entity was ORG respectively.
+Since we have to focus on only organization labelling, I divided the dataset into three categories with  **-1, 0, 1** as labels,
+where -1 means spacey didn’t  give any entity name to the sentence,0 where the entity label was not ORG and 1 means where entity was ORG.
 
 1. Accuracy score :  0.9676
 
