@@ -53,8 +53,8 @@ Further simplification of enron dataset is needed to properly evaluate spacy's p
 
 2. The documentaion of organization  can be improved by adding some research institutes and scientific publications such as Astrobiology Journal.
 
-3. Some of the errors made were due to I  missing context.
+3. Some of the errors made were due to missing context in sentences.
 
-
+4. The crowdsourced can be used ,but I found a lot of redundant labeling for example some of human labels should be empty as in agreeing with machine label but are give exact same values as the machine labeled dictionary .
 
 
