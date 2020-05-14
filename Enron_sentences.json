@@ -1,0 +1,5184 @@
+[
+  {
+    "text": "Shelley: Do you have any information on Project Max that we could use in the business plan for NNG?",
+    "machine_entities": [
+      [
+        95,
+        98,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The address list on the memo below contains the names of all ENA Energy Operations employees who worked in the offices in Houston, Denver and Calgary on January 1st to test our systems.",
+    "machine_entities": [
+      [
+        61,
+        64,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Mary, Jason Orta from the CEC called me to inform us that one of the generator numbers we had used was wrong.",
+    "machine_entities": [
+      [
+        26,
+        29,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Sierra Pacific was listed as CEC 10016 and should actually have been 10036.",
+    "machine_entities": [
+      [
+        0,
+        6,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I have made this correction in EPMI's CEC filing and resubmitted it.",
+    "machine_entities": [
+      [
+        31,
+        35,
+        "ORG",
+        "machine"
+      ],
+      [
+        38,
+        41,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "44357992": [
+        [
+          31,
+          35,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Steve Harris and the Transwestern Commercial Team would like to extend an invitation to our Christmas Luncheon on Wednesday, December 13, 11:30 a.m. at the Rodizio Restaurant on Westheimer and Chimney Rock.",
+    "machine_entities": [
+      [
+        178,
+        188,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "What does the Gingerbread Boy have on his bed?",
+    "machine_entities": [
+      [
+        14,
+        25,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I think that Robert Jones or Oxley will have to sign it instead of me, since I am not an officer.",
+    "machine_entities": [
+      [
+        29,
+        34,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Sheila--As we discussed, I am attaching revised versions of the ABB and GE override letters, clarifying that they dissolve only on assignment to a nonaffiliated party.",
+    "machine_entities": [
+      [
+        64,
+        67,
+        "ORG",
+        "machine"
+      ],
+      [
+        72,
+        74,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45414668": [
+        [
+          64,
+          67,
+          "",
+          "human"
+        ],
+        [
+          72,
+          74,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "I would like to set up a GISB agreement to trade with Sempra.",
+    "machine_entities": [
+      [
+        25,
+        29,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The gist is that CEC's forecast for supply in Summer 2001 is overly optimistic, and that Ca needs to stop fooling itself.",
+    "machine_entities": [
+      [
+        17,
+        20,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Did you notice on the spreadsheet for 3/27 they opened a new power product, US East Power Phys Firm ICAP?",
+    "machine_entities": [
+      [
+        79,
+        83,
+        "ORG",
+        "machine"
+      ],
+      [
+        100,
+        104,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Stinson/Vince, Some news articles.",
+    "machine_entities": [
+      [
+        0,
+        13,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "NOTE: Circulation of the \"Electricity Daily Demand Forecast\" outside a Client's licensed distribution area is strictly prohibited.",
+    "machine_entities": [
+      [
+        71,
+        77,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Can we trade as Enron North America Corp. out of Japan?",
+    "machine_entities": [
+      [
+        16,
+        21,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please advise if ENA is ok to reference in the Confirmation.",
+    "machine_entities": [
+      [
+        17,
+        20,
+        "ORG",
+        "machine"
+      ],
+      [
+        47,
+        59,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Steve indicated below that he talked to Ken at Frontera.",
+    "machine_entities": [
+      [
+        40,
+        43,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Introducing NASDAQ-100 Index TIERS (sm) Principal-Protected* Trust Certificates TIERS Nasdaq-100 Principal-Protected* Trust Certificates are securities whose return is linked to the performance of the Nasdaq-100 Index.",
+    "machine_entities": [
+      [
+        40,
+        60,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "At maturity, the Trust is scheduled to repay the entire principal amount of the certificates, plus an amount based on the return of the Nasdaq-100 Index subject to a quarterly appreciation cap of 12%.",
+    "machine_entities": [
+      [
+        17,
+        22,
+        "ORG",
+        "machine"
+      ],
+      [
+        136,
+        146,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Payment to the trust will be guaranteed pursuant to the terms of a financial guaranty insurance policy issued by Ambac Assurance Corporation.",
+    "machine_entities": [
+      [
+        113,
+        118,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Expected to be Aaa rating by Moody's and AAA rating by Standard & Poor's.",
+    "machine_entities": [
+      [
+        29,
+        36,
+        "ORG",
+        "machine"
+      ],
+      [
+        41,
+        44,
+        "ORG",
+        "machine"
+      ],
+      [
+        55,
+        63,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Enerfax GOLD NORTH AMERICA'S FREE?",
+    "machine_entities": [
+      [
+        0,
+        7,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "GAS, OIL, LIQUIDS & DERIVATIVES INFORMATION SOURCE Thursday, January 17 2002?",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "When: Occurs every Monday effective 9/17/2001 until 12/30/2002 from 10:00 AM to 11:00 AM (GMT-06:00) Central Time (US & Canada).",
+    "machine_entities": [
+      [
+        90,
+        99,
+        "ORG",
+        "machine"
+      ],
+      [
+        101,
+        108,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Jeff and Mark, Attached please find the comments that I wish to file with the Federal Trade Commission concerning EnronOnline for their upcoming B2B workshop this coming Thursday-Friday.",
+    "machine_entities": [
+      [
+        114,
+        125,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45414668": [
+        [
+          78,
+          85,
+          "ORG",
+          "human"
+        ],
+        [
+          114,
+          125,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "All: Harold Inman, an employee recently with Enron South America has finished his job there and has returned to Houston.",
+    "machine_entities": [
+      [
+        45,
+        50,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Harold is currently seeking a new position and the Global Resource Management group is helping him network.",
+    "machine_entities": [
+      [
+        51,
+        57,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Joe Kishkill, his most current supervisor endorses we find a new position for Harold at Enron.",
+    "machine_entities": [
+      [
+        88,
+        93,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I currently have a few opportunities available in ERCOT and WSCC trading and was wondering if you would be interested in looking at these opportunities or if you knew someone that would.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Hi Stephanie, Thanks for the hard copy of the ISDA docs.",
+    "machine_entities": [
+      [
+        46,
+        50,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "43752651": [
+        [
+          46,
+          50,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Included in this group is a joint offer with ENA to acquire a 50% interest in an existing small CO2 business in West Texas and a 50% interest in a grassroots CO2 project in Wyoming.",
+    "machine_entities": [
+      [
+        45,
+        48,
+        "ORG",
+        "machine"
+      ],
+      [
+        158,
+        161,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45300166": [
+        [
+          45,
+          48,
+          "ORG",
+          "machine"
+        ],
+        [
+          96,
+          99,
+          "ORG",
+          "human"
+        ],
+        [
+          158,
+          161,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Total initial investment for NBP would be about $28 million.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "This deal can go forward on its own if the Seller accepts the offer, or it can be brought into Project 20/20 if that deal closes.",
+    "machine_entities": [
+      [
+        43,
+        49,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "October 22, 2001 The previously posted outage of the Panhandle Eastern (PEPL) Interconnect on the Lebanon Lateral (Meter station 74902) has been delayed.",
+    "machine_entities": [
+      [
+        72,
+        76,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45161628": [
+        [
+          53,
+          62,
+          "ORG",
+          "human"
+        ],
+        [
+          63,
+          70,
+          "ORG",
+          "human"
+        ],
+        [
+          72,
+          76,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "The work will now take place beginning on Wednesday, October 31 at 9:00 AM and will be completed on Friday, November 2 at 7:00 PM.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "There will be no gas entering the system from PEPL during this outage.",
+    "machine_entities": [
+      [
+        46,
+        50,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Texas Eastern (TE) is working with CMS to pre-inject customer gas into the system prior to the outage to mitigate any affect to TE shippers.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ],
+      [
+        15,
+        17,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Texas Eastern will provide updates to this outage as they become available.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "To unsubscribe, login to the E-mail Notification Subscription page at http://www.link.duke-energy.com/script2/Notification.asp uncheck the appropriate checkbox, and click the Submit button.",
+    "machine_entities": [
+      [
+        175,
+        181,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Let's meet at Christi's desk on ebS5 and find a conference room.",
+    "machine_entities": [
+      [
+        14,
+        21,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I also am assuming that the Henry Hub products have been moved to FT East who is now managing them.",
+    "machine_entities": [
+      [
+        28,
+        33,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45414668": [
+        [
+          28,
+          33,
+          "ORG",
+          "machine"
+        ],
+        [
+          66,
+          68,
+          "ORG",
+          "human"
+        ]
+      ],
+      "44357992": [
+        [
+          28,
+          33,
+          "ORG",
+          "machine"
+        ],
+        [
+          66,
+          68,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45364130": [
+        [
+          28,
+          33,
+          "ORG",
+          "machine"
+        ],
+        [
+          66,
+          68,
+          "ORG",
+          "human"
+        ]
+      ],
+      "33519110": [
+        [
+          28,
+          33,
+          "ORG",
+          "machine"
+        ],
+        [
+          66,
+          68,
+          "ORG",
+          "human"
+        ],
+        [
+          69,
+          73,
+          "ORG",
+          "human"
+        ]
+      ],
+      "44380897": [
+        [
+          28,
+          33,
+          "ORG",
+          "human"
+        ],
+        [
+          66,
+          68,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45404714": [
+        [
+          28,
+          33,
+          "ORG",
+          "machine"
+        ],
+        [
+          66,
+          68,
+          "ORG",
+          "human"
+        ]
+      ],
+      "42453053": [
+        [
+          28,
+          33,
+          "ORG",
+          "machine"
+        ],
+        [
+          66,
+          68,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45419795": [
+        [
+          28,
+          33,
+          "ORG",
+          "machine"
+        ],
+        [
+          66,
+          68,
+          "ORG",
+          "human"
+        ],
+        [
+          69,
+          73,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45404154": [
+        [
+          28,
+          33,
+          "ORG",
+          "machine"
+        ],
+        [
+          66,
+          68,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "The Sequent payment should go today and the Dominion payment on Jan 31.",
+    "machine_entities": [
+      [
+        44,
+        52,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "CALENDAR ENTRY: APPOINTMENT Description: ESA Review?",
+    "machine_entities": [
+      [
+        41,
+        44,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Chip is assigned to North America primarily but we asked him to get up to speed on the India situation in case a new deal should arise there that requires RAC input.",
+    "machine_entities": [
+      [
+        155,
+        158,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "He is a sharp guy with lots of project finance experience and also worked in London for Eastern.",
+    "machine_entities": [
+      [
+        88,
+        95,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I forgot about the HPL people.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "I think we already have too many people and management may be waiting to see how many HPL people are staying with Enron on the trading side.",
+    "machine_entities": [
+      [
+        86,
+        89,
+        "ORG",
+        "machine"
+      ],
+      [
+        114,
+        119,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I still need to get the delivery locations for the CSW deal.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Ben, Attached you will find a PPT slide with the requested aerial photo scanned in.",
+    "machine_entities": [
+      [
+        30,
+        33,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "MILLS,SCOTT R has suggested reviewers and submitted them for your approval.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "You may review/modify this list of reviewers by logging on to PEP at http://pep.corp.enron.com and going to Supervisor Services.",
+    "machine_entities": [
+      [
+        108,
+        118,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please remember, no feedback can be completed on MILLS,SCOTT R until you have approved the list.",
+    "machine_entities": [
+      [
+        49,
+        54,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Marie, I have checked livelink and cannot find anything pertaining to BNP/EML.",
+    "machine_entities": [
+      [
+        70,
+        77,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45364130": [
+        [
+          70,
+          77,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Plan now to attend SHRM's most highly attended seminar!",
+    "machine_entities": [
+      [
+        19,
+        23,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I am working on a CRRA deal re fuel cells.",
+    "machine_entities": [
+      [
+        18,
+        22,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Attached for your review and comments is a revised version of the TransPecos LOI, which I believe reflects our discussions this morning.",
+    "machine_entities": [
+      [
+        66,
+        76,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Find the one for you at Yahoo!",
+    "machine_entities": [
+      [
+        24,
+        29,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Nelson, FBI took my laptop.",
+    "machine_entities": [
+      [
+        8,
+        11,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please note that Sally Beck is co-head of CommodityLogic.",
+    "machine_entities": [
+      [
+        42,
+        56,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Hi Debra, Nicor Gas Company wants to amend our base contract (their form of agreement) to add some \"netting language\".",
+    "machine_entities": [
+      [
+        10,
+        15,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please review ASAP and let me know what you think.",
+    "machine_entities": [
+      [
+        14,
+        18,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Did you get ahold of Mr. Hunt from Nicor yet.",
+    "machine_entities": [
+      [
+        35,
+        40,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "EY 6926 EY 8108 EY 8531 EY 9343 EQ 6930.1, .2 ECT does NOT have a master with The Dow Chemical Company.",
+    "machine_entities": [
+      [
+        78,
+        81,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Tana: Since credit has restricted both Peoples Gas and City of Talahassee, these CPs are restricted by legal as well.",
+    "machine_entities": [
+      [
+        39,
+        46,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I guess we need to work this out with the AEP people.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "PEP - weekend support For assistance with any PEP problems this weekend please contact the Houston PEP Support desk on +1 713-853-4777 Option 4 for 24 hour assistance.",
+    "machine_entities": [
+      [
+        46,
+        49,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45351342": [
+        [
+          0,
+          3,
+          "ORG",
+          "human"
+        ],
+        [
+          46,
+          49,
+          "ORG",
+          "machine"
+        ],
+        [
+          99,
+          102,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45364130": [
+        [
+          46,
+          49,
+          "",
+          "human"
+        ]
+      ],
+      "45251863": [
+        [
+          0,
+          3,
+          "ORG",
+          "human"
+        ],
+        [
+          46,
+          49,
+          "ORG",
+          "machine"
+        ],
+        [
+          99,
+          102,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45160623": [
+        [
+          0,
+          3,
+          "ORG",
+          "human"
+        ],
+        [
+          46,
+          49,
+          "ORG",
+          "machine"
+        ],
+        [
+          99,
+          102,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45419795": [
+        [
+          46,
+          49,
+          "",
+          "human"
+        ]
+      ],
+      "20167536": [
+        [
+          0,
+          3,
+          "ORG",
+          "human"
+        ],
+        [
+          46,
+          49,
+          "ORG",
+          "machine"
+        ],
+        [
+          91,
+          98,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "I got my offer to come back to Enron & those are the areas that Associates rotate through.",
+    "machine_entities": [
+      [
+        31,
+        36,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "EFF_DT PORTFOLIO_ID DOWN95 2/15/01 MANAGEMENT-COAL 0 2/15/01 MANAGEMENT-CRD 0 2/15/01 MANAGEMENT-GAS 600,498.",
+    "machine_entities": [
+      [
+        0,
+        6,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "In addition to the issues about setting up the shell corporation, what are the rules for the Enron affliliates who trade on line?",
+    "machine_entities": [
+      [
+        93,
+        98,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "EOTT is concerned about credit issues for the shell corporation.",
+    "machine_entities": [
+      [
+        0,
+        4,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "How do you handle that with the other Enron affiliates?",
+    "machine_entities": [
+      [
+        38,
+        43,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "How does the contract get from the Enron affiliate to EOTT--is the contract assigned or do we do back to back deals?",
+    "machine_entities": [
+      [
+        35,
+        40,
+        "ORG",
+        "machine"
+      ],
+      [
+        54,
+        58,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Hector, this is to verify our conversation regarding the increase in annual base salary for Jesse Villarreal from $50,160 to $56,000.",
+    "machine_entities": [
+      [
+        0,
+        6,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45256462": [
+        [
+          0,
+          6,
+          "ORG",
+          "machine"
+        ],
+        [
+          92,
+          97,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Jesse is a Specialist in cost center 105603 on the Logistics East scheduling team reporting to Manager Ed Terry.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ],
+      [
+        11,
+        21,
+        "ORG",
+        "machine"
+      ],
+      [
+        51,
+        60,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please plan to attend a reception and dinner for those Analysts and Associates due to rotate in the near future who have made significant contributions to Enron North America.",
+    "machine_entities": [
+      [
+        68,
+        78,
+        "ORG",
+        "machine"
+      ],
+      [
+        155,
+        160,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The function will be hosted by the Office of the Chairman at Morton's Steak House located at 5000 Westheimer on July 27, 2000.",
+    "machine_entities": [
+      [
+        61,
+        67,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "This will be an informal gathering to discuss the progress of ENA and an open forum to interact with the management team on a one on one basis.",
+    "machine_entities": [
+      [
+        62,
+        65,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Any GCP adjustments will be highlighted in red.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Expect a GCP Response on Clickpaper approvals, CP 03-12a-01, tomorrow, 3/15/01 by 5pm.",
+    "machine_entities": [
+      [
+        9,
+        12,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The new product will be a day product like our current Katy and HSC Pool products, so it will be a fixed price product for next day gas delivered at the Corpus location.",
+    "machine_entities": [
+      [
+        64,
+        67,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Joe: Thanks for taking the time to talk with me regarding the opportunities at Cinergy.",
+    "machine_entities": [
+      [
+        79,
+        86,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I would like to continue trading, but also learn Cinergy's assets to better understand how to effectively trade around these types of assets.",
+    "machine_entities": [
+      [
+        49,
+        56,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "He also sounded interested in the possibility of our making some sort of anonymous inquiry at FERC (if such a thing is possible) on the issue.",
+    "machine_entities": [
+      [
+        94,
+        98,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45414668": [
+        [
+          94,
+          98,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "At the very least, I hope he will show it to the Kinder Morgan lawyers.",
+    "machine_entities": [
+      [
+        49,
+        55,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Also, I am attaching the ENA telephone contact list.",
+    "machine_entities": [
+      [
+        25,
+        28,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Stan has asked me if I would like to attend.",
+    "machine_entities": [
+      [
+        0,
+        4,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Your fax of the signed NDA did not come through all the way, I only got part of the first page.",
+    "machine_entities": [
+      [
+        23,
+        26,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Could you please refax back the whole document so I can get it signed by Enron.",
+    "machine_entities": [
+      [
+        73,
+        78,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "At this meeting you'll be able to pick up your newly designed for 2000 Enron jersey.",
+    "machine_entities": [
+      [
+        71,
+        76,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Our guests are Jeff Nielsen and Trey Richardson, West U. Schwinn.",
+    "machine_entities": [
+      [
+        49,
+        53,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "We've obviously already talked about the CSA, but we need to put together a letter of intent.",
+    "machine_entities": [
+      [
+        41,
+        44,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Question: Is there a tax/CIAC issue with Citizens reimbursing us for this change?",
+    "machine_entities": [
+      [
+        25,
+        29,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The above excel files are at G:Common/LNG/Hoegh Galleon.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "The deal got booked to Oil-NG-Hedge-Spec.",
+    "machine_entities": [
+      [
+        23,
+        40,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Kaye: Would you please schedule a meeting with John Suttle to discuss Harvard.",
+    "machine_entities": [
+      [
+        70,
+        77,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Wal-Mart is opening a new store here so I applied and got a job.",
+    "machine_entities": [
+      [
+        0,
+        8,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Make a great connection at Yahoo!",
+    "machine_entities": [
+      [
+        27,
+        32,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Attached is a draft of the letter that we propose to send to the CPUC regarding the AL2837 proceeding in which SoCal Gas is proposing changes to its \"windowing\" criteria.",
+    "machine_entities": [
+      [
+        65,
+        69,
+        "ORG",
+        "machine"
+      ],
+      [
+        111,
+        116,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I have looked at the policy and have no major issue with it, except to the extent that it may be either duplicative or different from policies that Corp. is looking to implement.",
+    "machine_entities": [
+      [
+        148,
+        153,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "However, if you'd rather not receive future e-mails of this sort from Amazon.com, please visit your Amazon.com account page .",
+    "machine_entities": [
+      [
+        70,
+        80,
+        "ORG",
+        "machine"
+      ],
+      [
+        100,
+        110,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Matthew Dawson 12/13/2000 12:33 PM To: Tana Jones/HOU/ECT@ECT cc: Subject: Re: NDA-Credit2B.com This is done- the fax has been sent successfully.",
+    "machine_entities": [
+      [
+        79,
+        95,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Attached is an updated status report regarding ENA Litigation.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Mark, Hello, my name is Zach Streight and I am working in Brad Richter's group trying to monetize DealBench.",
+    "machine_entities": [
+      [
+        98,
+        107,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Debra - Please prepare a Master Firm draft per the attached.",
+    "machine_entities": [
+      [
+        25,
+        31,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Mariella, Below is the pricing for ProCaribe's LPG purchase.",
+    "machine_entities": [
+      [
+        0,
+        8,
+        "ORG",
+        "machine"
+      ],
+      [
+        35,
+        44,
+        "ORG",
+        "machine"
+      ],
+      [
+        47,
+        50,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45364130": [
+        [
+          35,
+          44,
+          "ORG",
+          "machine"
+        ],
+        [
+          47,
+          50,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "The two fixed price tranches of 2600MT and 1768 MT represent volumes sold and yet-to-be-sold during the time frame April 16th to May 31st.",
+    "machine_entities": [
+      [
+        32,
+        38,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45302262": [
+        [
+          32,
+          38,
+          "ORG",
+          "machine"
+        ],
+        [
+          43,
+          47,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Note that ProCaribe's revenue stream for the portion of LPG sold during the second half of April (~1400 MT) was based on Mont Belvieu of $0.543/gallon.",
+    "machine_entities": [
+      [
+        10,
+        19,
+        "ORG",
+        "machine"
+      ],
+      [
+        56,
+        59,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "ProCaribe's revenue for volumes sold in May (~2900 MT) will be based on the average Mont Belvieu price for the entire month.",
+    "machine_entities": [
+      [
+        0,
+        9,
+        "ORG",
+        "machine"
+      ],
+      [
+        45,
+        50,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "You can also check with David Tucker at Bracewell.",
+    "machine_entities": [
+      [
+        40,
+        49,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I know you have been working with Barry T. if his headcount is different on the Marketing staff use his numbers.",
+    "machine_entities": [
+      [
+        80,
+        89,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The first is a draft of an \"FYI from GPG\" to explain the why behind the reorg.",
+    "machine_entities": [
+      [
+        28,
+        31,
+        "ORG",
+        "machine"
+      ],
+      [
+        37,
+        40,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Based on the information you provided us, we have approved your account for Level V options trading.",
+    "machine_entities": [
+      [
+        76,
+        81,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Talked to Edison about getting a meeting with Craver.",
+    "machine_entities": [
+      [
+        46,
+        52,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Here is the Reserve schedule.",
+    "machine_entities": [
+      [
+        12,
+        19,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "There were no reserves for the Financial, Central, East, or Texas desks.",
+    "machine_entities": [
+      [
+        31,
+        40,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Jeff, I don't know if you're available, but if you've got a spare minute, it'd probably be a good idea for us to rally by phone before the Hearing.",
+    "machine_entities": [
+      [
+        139,
+        146,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Sean: As i am now in the power trading group, if any changes need to be made to the financial GTC's for this counterparty, please contact either Mark Taylor or Sara Shackleton.",
+    "machine_entities": [
+      [
+        94,
+        97,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "See below for when we receive a worksheet from Credit for Delphi Automotive.",
+    "machine_entities": [
+      [
+        58,
+        64,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "DOUGLAS GILBERT-SMITH, The PEP system closes on Friday, May 25, 2001.",
+    "machine_entities": [
+      [
+        27,
+        30,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45364130": [
+        [
+          27,
+          30,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Please log into PEP at http://pep.enron.com and select Supervisor Services from the Main Menu to approve your employees' reviewers.",
+    "machine_entities": [
+      [
+        55,
+        65,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45224018": [
+        [
+          16,
+          19,
+          "ORG",
+          "human"
+        ],
+        [
+          55,
+          65,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Actually, he would also be a good fit for helping to think ways to analyze our Enron On-line data.",
+    "machine_entities": [
+      [
+        79,
+        84,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Mark Richard Grove 10/04/2000 10:23 AM To: Mark Haedicke cc: Subject: January Board Meeting Mark, How does it look for Enron hosting the January Board meeting in London?",
+    "machine_entities": [
+      [
+        119,
+        124,
+        "ORG",
+        "machine"
+      ],
+      [
+        137,
+        144,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "44985688": [
+        [
+          119,
+          124,
+          "ORG",
+          "machine"
+        ]
+      ],
+      "45302262": [
+        [
+          119,
+          124,
+          "ORG",
+          "machine"
+        ]
+      ],
+      "45160623": [
+        [
+          119,
+          124,
+          "ORG",
+          "machine"
+        ],
+        [
+          137,
+          144,
+          "",
+          "human"
+        ]
+      ],
+      "45419795": [
+        [
+          119,
+          124,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "The buyers broker just called to say that Bobinchuck left her a message to confirm that the closing is scheduled for Nov. 5 and 6.",
+    "machine_entities": [
+      [
+        42,
+        52,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "FYI, we decided to extend the deadline for submitting comments to Wednesday noon, September 20.?",
+    "machine_entities": [
+      [
+        0,
+        3,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Louis - This was a mutual termination and all of the deals referenced in the termination agreement are financial deals.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "He is currently located in India (our DPC unit) and is looking for a permanent position with Enron in Houston for family reasons (his wife is from Houston and has a family here).",
+    "machine_entities": [
+      [
+        38,
+        41,
+        "ORG",
+        "machine"
+      ],
+      [
+        93,
+        98,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45163668": [
+        [
+          38,
+          41,
+          "",
+          "human"
+        ],
+        [
+          93,
+          98,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Your message To: Tim Collins (E-mail) Subject: Final November Purchase Sent: 12/17/2001 9:50 AM was read on 12/17/2001 1:18 PM.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Whether we want a bilateral or Enron Protected Counterparty form 3.",
+    "machine_entities": [
+      [
+        31,
+        36,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Thank you for making your travel plans with Travelocity.com.",
+    "machine_entities": [
+      [
+        44,
+        59,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please find attached the confirmation for gas sales of Socal Imbalance Payback at the California Border of 20,000mmbtu for November 27, 2001 for $2.39.",
+    "machine_entities": [
+      [
+        55,
+        60,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Just to let you know what Border sent out.",
+    "machine_entities": [
+      [
+        26,
+        32,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "For example now that LNG has moved under Shankman Lavo should take the oversight role rather than me.",
+    "machine_entities": [
+      [
+        21,
+        24,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45409983": [
+        [
+          21,
+          24,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "I have a call in to CPA, go ahead and nom 2 on K#66940.",
+    "machine_entities": [
+      [
+        47,
+        54,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45351342": [
+        [
+          20,
+          23,
+          "ORG",
+          "human"
+        ],
+        [
+          47,
+          54,
+          "",
+          "human"
+        ]
+      ],
+      "45364130": []
+    }
+  },
+  {
+    "text": "Have additional 1,285 bought from EES at A06 for COH.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "I will send latest guess for COH Jan 1 later, real forcast 12/31 AM.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Attached is an updated Interstate Pipeline Capacity to California Report with changes and additions highlighted.",
+    "machine_entities": [
+      [
+        23,
+        33,
+        "ORG",
+        "machine"
+      ],
+      [
+        55,
+        65,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45189099": [
+        [
+          23,
+          33,
+          "ORG",
+          "human"
+        ],
+        [
+          55,
+          65,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Sara, I asked Simon for a schedule for all of the Credit trades which are in the name of ECT Investments Inc and North America.",
+    "machine_entities": [
+      [
+        50,
+        56,
+        "ORG",
+        "machine"
+      ],
+      [
+        89,
+        92,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "In order to meet the May 25th deadline for completed feedback... All Employees - Sign into PEP and select your Reviewers.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "All Supervisors - Sign into PEP and approve Reviewers for your employees.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Darron talked the higher ups here into making me the business controller for the Central desk.",
+    "machine_entities": [
+      [
+        0,
+        6,
+        "ORG",
+        "machine"
+      ],
+      [
+        81,
+        88,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "44985688": [
+        [
+          0,
+          6,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "I have a couple of questions so I can wrap up the LOI: We refer to licensed Fuel Cell Energy equipment.",
+    "machine_entities": [
+      [
+        50,
+        53,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45409983": [
+        [
+          76,
+          80,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Do we expect to have ONE EPC contract, or several?",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "I created deal 159513 to capture the IT gas we are flowing on IROQ for Jan and Feb.",
+    "machine_entities": [
+      [
+        62,
+        66,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Schedule gas on our IT contract from Waddington to Wright 2.",
+    "machine_entities": [
+      [
+        37,
+        47,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Schedule gas on our IT contract from Waddington to Pleasant Valley 4.",
+    "machine_entities": [
+      [
+        37,
+        47,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "FYI I am currently out of books.",
+    "machine_entities": [
+      [
+        0,
+        3,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Dear Mr Kaminski, Today is YOUR chance to receive a subscription to CI magazine for FREE!",
+    "machine_entities": [
+      [
+        68,
+        70,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please click now to register to secure your free monthly copies: http://www.ci-online.co.uk/default.asp?page=/info/freesubscription2.asp?source=0215E Containerisation International magazine is your industry's most respected and popular monthly freight and logistics publication, and it is available free to certain individuals.",
+    "machine_entities": [
+      [
+        150,
+        166,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Register today for your free subscription to Containerisation International magazine and receive every month a strategic global view of the liner shipping market.",
+    "machine_entities": [
+      [
+        45,
+        61,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "If you have any comments, please contact Ken Wong at Kenneth.Wong@gm.com or 313 974-1348.",
+    "machine_entities": [
+      [
+        53,
+        72,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "If I were Mr. Chan I would write to Reuters to correct the statement about his attendance.",
+    "machine_entities": [
+      [
+        36,
+        43,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Shelley--looks good to me.",
+    "machine_entities": [
+      [
+        0,
+        7,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Accordingly, I do not think you need to freeze Japanese Cos. from bandwidth.",
+    "machine_entities": [
+      [
+        47,
+        55,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Seems to me that L/C's are the way to go then, rather than asking for cash or another asset as collateral.",
+    "machine_entities": [
+      [
+        17,
+        22,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45351342": [
+        [
+          17,
+          22,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "As you can imagine, most other extenders of credit are willing to take the bank's L/C in lieu of a lien on a hard asset.",
+    "machine_entities": [
+      [
+        82,
+        85,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45163668": [
+        [
+          82,
+          85,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Russell Diamond 01/08/2001 06:42 PM To: Mark Taylor/HOU/ECT@ECT cc: Subject: Re: ISDA Collateral Question Mark, Letters of Credit are available under this Credit Facility.",
+    "machine_entities": [
+      [
+        81,
+        85,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please let me know your thoughts and if you need any additional information as the originator in EES is calling for me.",
+    "machine_entities": [
+      [
+        97,
+        100,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Harry, Today's live auction for Northern Border Pipeline's procurement of line pipe was quite a success!",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ],
+      [
+        32,
+        40,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45302262": [
+        [
+          32,
+          40,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Please note that we earned $52,500 for this auction and are on track to do another auction for NBPL on 1/30 for a $20,000 fee.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "California - since Direct Access is suspended, we would need to evaluate that the assignment would void our contract ( at least one commissioner at the PUC is still trying to further limit DA ).",
+    "machine_entities": [
+      [
+        19,
+        25,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "44985688": []
+    }
+  },
+  {
+    "text": "Hey we are going to Truluck's for all you can eat stone crab claws tonight in honor of my 32nd birthday.",
+    "machine_entities": [
+      [
+        20,
+        27,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Kelly, I have not provided you with an updated list, so I hope you used my one from last year--it should suffice.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Therefore, I will attend the Board meeting, but will not stay to write notes.",
+    "machine_entities": [
+      [
+        29,
+        34,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Attached is the amendment to the Dynegy Guaranty for Nicor Energy, L.L.C., which adds financial transactions to the existing Guaranty.",
+    "machine_entities": [
+      [
+        53,
+        58,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Per Ryan he is missing 3 sales deals (Sales to AEP by HPL or ENA ), @ WAHA Hub, that he stated, per his understanding, Genaro is not reflecting under ENA.",
+    "machine_entities": [
+      [
+        47,
+        50,
+        "ORG",
+        "machine"
+      ],
+      [
+        54,
+        57,
+        "ORG",
+        "machine"
+      ],
+      [
+        61,
+        64,
+        "ORG",
+        "machine"
+      ],
+      [
+        150,
+        153,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I don't reflect any 05/01 sales to AEP in Unify.",
+    "machine_entities": [
+      [
+        35,
+        38,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45351342": [
+        [
+          35,
+          38,
+          "ORG",
+          "machine"
+        ],
+        [
+          42,
+          47,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "When: Tuesday, February 05, 2002 2:00 PM-3:00 PM (GMT-06:00) Central Time (US & Canada).",
+    "machine_entities": [
+      [
+        61,
+        68,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Tracy, 10,000 MMBTU/D of incremental capacity from LaPlata to Gallup.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ],
+      [
+        62,
+        68,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "FYI........ Posted 6/13/01 Toby TW team, please talk with your shippers to let them know the posting is out on the WEB even though they are getting an email.",
+    "machine_entities": [
+      [
+        0,
+        3,
+        "ORG",
+        "machine"
+      ],
+      [
+        19,
+        26,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "44985688": [
+        [
+          0,
+          3,
+          "ORG",
+          "machine"
+        ],
+        [
+          19,
+          26,
+          "",
+          "human"
+        ],
+        [
+          27,
+          31,
+          "ORG",
+          "human"
+        ],
+        [
+          32,
+          34,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Gabrielle Hagele, UBS Warburg, will be in Portland on Friday, February 8, 2002 to present information on UBS benefits for those who missed the previous information sessions.",
+    "machine_entities": [
+      [
+        105,
+        108,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45364130": [
+        [
+          18,
+          21,
+          "ORG",
+          "human"
+        ],
+        [
+          22,
+          29,
+          "ORG",
+          "human"
+        ],
+        [
+          105,
+          108,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "I have spoken with Jorge Rojas of PEMEX today and he is will fax translated financial statements for MGI either this afternoon or in the morning.",
+    "machine_entities": [
+      [
+        34,
+        39,
+        "ORG",
+        "machine"
+      ],
+      [
+        101,
+        104,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45351342": [
+        [
+          34,
+          39,
+          "ORG",
+          "machine"
+        ],
+        [
+          101,
+          104,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "With the flows almost doubling I would thing Agave should pay for this.",
+    "machine_entities": [
+      [
+        45,
+        50,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "FYI The list of the delegates from Petronas.",
+    "machine_entities": [
+      [
+        0,
+        3,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45302262": [
+        [
+          35,
+          43,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Huber At the request of Gerald Nemec, I am forwarding to you the attached Master Firm Purchase/Sale Agreement--Sample Contract for review.",
+    "machine_entities": [
+      [
+        74,
+        80,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "44985688": [
+        [
+          0,
+          5,
+          "ORG",
+          "human"
+        ],
+        [
+          24,
+          30,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Please find attached our Weekly Report (9th November 2000) for your information and perusal.",
+    "machine_entities": [
+      [
+        25,
+        31,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45189099": [
+        [
+          84,
+          91,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Dennis will update us if he thinks more time is required.",
+    "machine_entities": [
+      [
+        0,
+        6,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The MAC clauses are attached to the ISDA Master Agreement.",
+    "machine_entities": [
+      [
+        4,
+        7,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45224018": [
+        [
+          4,
+          7,
+          "ORG",
+          "machine"
+        ],
+        [
+          36,
+          40,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Jim, Attached is the file that contains the correlation analysis between the NBSK price and the price for paper grades.",
+    "machine_entities": [
+      [
+        77,
+        81,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45364130": [
+        [
+          77,
+          81,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Hello Everyone, Scott and I recently met with the DC law firm of Swidler, Berlin as part of the on-going discussions around forming a CLEC.",
+    "machine_entities": [
+      [
+        134,
+        138,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "44985688": [
+        [
+          65,
+          72,
+          "ORG",
+          "human"
+        ],
+        [
+          134,
+          138,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "We asked for an analysis that looks at a couple of our products in a sampling of states to see if they would, in fact, trigger the requirement that we form a CLEC.",
+    "machine_entities": [
+      [
+        158,
+        162,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Swidler, Berlin produced the attached memo which looks at Florida, Illinois and New York.",
+    "machine_entities": [
+      [
+        0,
+        7,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "On behalf of the Enron Litigation Unit, I would like to thank you for your enthusiastic response to our November 9, 2000 CLE in-house ethics seminar.",
+    "machine_entities": [
+      [
+        121,
+        124,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45364130": [
+        [
+          121,
+          124,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "All of us in the Unit look forward to seeing you on November 9.",
+    "machine_entities": [
+      [
+        17,
+        21,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Yes I would like to attend meeting regarding NRG deal and let's have a position meeting this afternoon at 4:00.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "I will keep my ears open for Zone J and G markets.",
+    "machine_entities": [
+      [
+        29,
+        33,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Katherine Tew Darras joins the ISDA New York office on November 12 as Assistant General Counsel, reporting to Kimberly Summe.",
+    "machine_entities": [
+      [
+        31,
+        35,
+        "ORG",
+        "machine"
+      ],
+      [
+        110,
+        118,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Katherine, a Canadian, has worked for four years as an associate with Salans Hertzfield Heilbronn Christy & Viener in New York, as part of the Corporate and Financial Institutions group.",
+    "machine_entities": [
+      [
+        0,
+        9,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Before that, she worked at Canadian Imperial Bank of Commerce in Toronto.",
+    "machine_entities": [
+      [
+        27,
+        35,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Two remaining questions: - If Nailia moves across to EBS 100% (or even 50%) at end of year, who replaces her on cross border power and other EC work?",
+    "machine_entities": [
+      [
+        141,
+        143,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "44985688": [
+        [
+          53,
+          56,
+          "ORG",
+          "human"
+        ],
+        [
+          141,
+          143,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "I know you will add your own spin before sending it on to Cordes.",
+    "machine_entities": [
+      [
+        58,
+        64,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "As requested, please see the attached sample of a Master Firm Purchase/Sale Agreement along with a GISB for your review.",
+    "machine_entities": [
+      [
+        99,
+        103,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "EOL has prices in all markets through 2003 which should be all you need to perform your analysis.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Paul, Attached is a link to the OFAC website, which indicates that Serbia and Montenegro are still sanctioned.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "A 2:00 pm central time conference call has been scheduled to discuss the most recent analytical results from the Topock Lateral PCB sampling.",
+    "machine_entities": [
+      [
+        113,
+        119,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Bob Iverson's name could not be found in tha Lotus directory but has been contacted via phone and will be in attendence.",
+    "machine_entities": [
+      [
+        45,
+        50,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "We are sure Jack Anthony will bring success and pride to the Lavarato name and hold the name high for years to come.",
+    "machine_entities": [
+      [
+        61,
+        69,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I assume you will communicate with Underwriting and IV personnel about the philosophy of the change and implementation.",
+    "machine_entities": [
+      [
+        35,
+        47,
+        "ORG",
+        "machine"
+      ],
+      [
+        52,
+        54,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45172610": [
+        [
+          35,
+          47,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45414668": [
+        [
+          35,
+          47,
+          "ORG",
+          "machine"
+        ],
+        [
+          52,
+          54,
+          "",
+          "human"
+        ]
+      ],
+      "43752651": [
+        [
+          35,
+          47,
+          "ORG",
+          "machine"
+        ],
+        [
+          52,
+          54,
+          "",
+          "human"
+        ]
+      ],
+      "45034178": [
+        [
+          35,
+          47,
+          "",
+          "human"
+        ]
+      ],
+      "33519110": [
+        [
+          35,
+          47,
+          "ORG",
+          "machine"
+        ],
+        [
+          52,
+          54,
+          "ORG",
+          "human"
+        ],
+        [
+          55,
+          64,
+          "ORG",
+          "human"
+        ]
+      ],
+      "44380897": [
+        [
+          35,
+          47,
+          "",
+          "human"
+        ],
+        [
+          52,
+          54,
+          "",
+          "human"
+        ]
+      ],
+      "45405007": [
+        [
+          35,
+          47,
+          "",
+          "human"
+        ],
+        [
+          52,
+          54,
+          "",
+          "human"
+        ]
+      ],
+      "45159810": [
+        [
+          52,
+          54,
+          "ORG",
+          "machine"
+        ]
+      ],
+      "45178955": [
+        [
+          35,
+          47,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45163668": [
+        [
+          52,
+          54,
+          "",
+          "human"
+        ]
+      ],
+      "45173737": [
+        [
+          35,
+          47,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "He used to be an FX trader.",
+    "machine_entities": [
+      [
+        17,
+        19,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45351342": [
+        [
+          17,
+          19,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "DETM's proposal is reasonably clear: a new cap would be set whenever the proxy index exceeds 110% (or goest below 90%) of the current cap.",
+    "machine_entities": [
+      [
+        0,
+        4,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Even TFG did not raise that issue in its comments.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Here is the report in Model office.",
+    "machine_entities": [
+      [
+        22,
+        27,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Do not verify the content of the data , this is Model Office data that has not been refreshed from Production.",
+    "machine_entities": [
+      [
+        48,
+        53,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Also attached is the updated Groups document.",
+    "machine_entities": [
+      [
+        29,
+        35,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Code: 111756 Carol Hudson, Executive Assistant Independent Energy Producers Assn.",
+    "machine_entities": [
+      [
+        47,
+        58,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Corry, Don, Theresa and Tom.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I have asked OATI to reduce the number of accounts from 40 to 10 to reduce the costs for the estate.",
+    "machine_entities": [
+      [
+        13,
+        17,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Therefore I recommend we go down to the following accounts Enron01-10.",
+    "machine_entities": [
+      [
+        59,
+        66,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Scott: I have a call scheduled with Martin for tomorrow morning to discuss these CFTC issues.",
+    "machine_entities": [
+      [
+        81,
+        85,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Hello everyone, Attached is the market wrap for the week of 11/09.",
+    "machine_entities": [
+      [
+        16,
+        24,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I've been trying to talk with Jo and will do so this Wednesday regarding transportation on the KB line to NNG/TW Gray.",
+    "machine_entities": [
+      [
+        106,
+        112,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "As both parties continue to explore the issues which we discussed yesterday, would you like to send us Harvard's form of guaranty?",
+    "machine_entities": [
+      [
+        103,
+        110,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Here is Staff's first set of data requests for the State Water Contractors and the Metropolitan Water District in WordPerfect and Rich Text Formats.",
+    "machine_entities": [
+      [
+        114,
+        125,
+        "ORG",
+        "machine"
+      ],
+      [
+        130,
+        134,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please forward our ENA GISB draft and the SAMPLE Master to Brad Dixson with short transmittal letter.",
+    "machine_entities": [
+      [
+        19,
+        22,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The company is Kansas Gas.",
+    "machine_entities": [
+      [
+        15,
+        21,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Enron North America had some summer clerks this summer.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Debbie, I would like to have access to the VAR reports in RisktRac.",
+    "machine_entities": [
+      [
+        43,
+        46,
+        "ORG",
+        "machine"
+      ],
+      [
+        58,
+        66,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I am responsible for preparing the Gas Benchmark and the VAR report that is given to ENA management each morning.",
+    "machine_entities": [
+      [
+        57,
+        60,
+        "ORG",
+        "machine"
+      ],
+      [
+        85,
+        88,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Therefore I already have access to the VAR information.",
+    "machine_entities": [
+      [
+        39,
+        42,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The message they are stressing is that FERC is injecting much needed certainty.",
+    "machine_entities": [
+      [
+        39,
+        43,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45163668": [
+        [
+          39,
+          43,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Howzabout we invite the pool to the napa golf course (everyone pays their own way) and have a scramble, or something?",
+    "machine_entities": [
+      [
+        0,
+        9,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Cameron Sellers Vice President, Business Development PERFECT 1860 Embarcadero Road - Suite 210 Palo Alto, CA 94303 cameron@perfect.com 650.798.3366 (direct dial) 650.269.3366 (cell) 650.858.1095 (fax) ?",
+    "machine_entities": [
+      [
+        32,
+        40,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Attached is the 2000 Weekly Cost reports.",
+    "machine_entities": [
+      [
+        21,
+        27,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45302262": []
+    }
+  },
+  {
+    "text": "Theresa, New wiring instructions.",
+    "machine_entities": [
+      [
+        0,
+        7,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Weil called to say that, as of 3:00 pm, they hadn't yet filed the motions to quash.",
+    "machine_entities": [
+      [
+        0,
+        4,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Do you know if they ever called Baker & Botts to give them a head's up?",
+    "machine_entities": [
+      [
+        32,
+        37,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The SJ, Perm, and Socal don't match.",
+    "machine_entities": [
+      [
+        18,
+        23,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I've attached a Word Doc version, in case you can't get to the LiveLink URL below.",
+    "machine_entities": [
+      [
+        63,
+        71,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Thanks again for the chat this PM.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "This one is for LV Cogen.",
+    "machine_entities": [
+      [
+        16,
+        18,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "We have named him Akilesh.",
+    "machine_entities": [
+      [
+        18,
+        25,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Also attached is the summary of current GPG imbalance provisions and penalties.",
+    "machine_entities": [
+      [
+        40,
+        43,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45364130": [
+        [
+          40,
+          43,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Note: this a revised version with a summary of the NBPL provisions included.",
+    "machine_entities": [
+      [
+        51,
+        55,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45163668": [
+        [
+          51,
+          55,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "If you or your group have trouble printing, it may be that they moved a bunch a printers to \\\\nahou-psecn01v server.",
+    "machine_entities": [
+      [
+        92,
+        108,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Laura has told me that she would like for me to get together with you in order for you to show me around the joint Enron & People's Energy website used in the Chicago office.",
+    "machine_entities": [
+      [
+        115,
+        120,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Essie and Leon have proposed xferring Co. 1691 to your world (see below).",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ],
+      [
+        10,
+        14,
+        "ORG",
+        "machine"
+      ],
+      [
+        29,
+        37,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "And that Buffet ain't interested?",
+    "machine_entities": [
+      [
+        9,
+        15,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Someone in real estate finance I know compared what Fastow & Co. did to the FirstPlus fiasco.",
+    "machine_entities": [
+      [
+        52,
+        58,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I do have a one quick question.... My sources indicate that Enron has agreed to place a Megawatt-Daily Cinergy Hourly product on EOL within 2 weeks.",
+    "machine_entities": [
+      [
+        60,
+        65,
+        "ORG",
+        "machine"
+      ],
+      [
+        88,
+        102,
+        "ORG",
+        "machine"
+      ],
+      [
+        129,
+        132,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The Product Short Description on the website will be as follows: US Gas Daily KatyPltTailgate Month/Year USD/MM Please advise if this does not meet with your approval.",
+    "machine_entities": [
+      [
+        65,
+        67,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Thanks - Rob Enron North America Corp.",
+    "machine_entities": [
+      [
+        9,
+        12,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "This bill passed out of the Legislature and has gone to the Governor to sign.",
+    "machine_entities": [
+      [
+        28,
+        39,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Thanks, Oh, I have called Tri Star and I have put thier number in too.",
+    "machine_entities": [
+      [
+        26,
+        29,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I wanted IR and PR to be aware that within the next few days the PG&E Bankruptcy team will file with the Judge Enron's current claim.",
+    "machine_entities": [
+      [
+        65,
+        69,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "We intend to ask the Judge to Lift the Stay so that we can file at the CPUC a complaint to recoup our current receivable.",
+    "machine_entities": [
+      [
+        71,
+        75,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Veroinca, Below is some additional information regarding our conversation yesterday on MMS.",
+    "machine_entities": [
+      [
+        0,
+        8,
+        "ORG",
+        "machine"
+      ],
+      [
+        87,
+        90,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45263437": [
+        [
+          87,
+          90,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "We are working with Gerald Nemec to establish a GISB to cover this deal.",
+    "machine_entities": [
+      [
+        48,
+        52,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45302262": [
+        [
+          48,
+          52,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "We are going to use the same form that was used by Enron North America.",
+    "machine_entities": [
+      [
+        51,
+        56,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The name of the database is New Power Contracts.",
+    "machine_entities": [
+      [
+        28,
+        31,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "My daughter, Lisa, is having surgery at Texas Children's hospital and I plan to spend the day with her.",
+    "machine_entities": [
+      [
+        40,
+        45,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Dennis Lee will be the new contact person for all new POI setups and questions related to Transwestern POI's.",
+    "machine_entities": [
+      [
+        90,
+        102,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Please direct all future communications regarding TW POI's to Dennis and Elizabeth.",
+    "machine_entities": [
+      [
+        50,
+        52,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Joe Stepenovitch dropped: Minnis, Marvin KCC WR and acquired: Thrash, James PHI WR Natural Gas Gridiron Address: http://fflnet.myfantasyleague.com/fflnet2001/home/0205 Questions about this site?",
+    "machine_entities": [
+      [
+        26,
+        33,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Expired ROFR's - Two contract ROFR notifications expired this week (11/30/2000).",
+    "machine_entities": [
+      [
+        8,
+        12,
+        "ORG",
+        "machine"
+      ],
+      [
+        30,
+        34,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45302262": [
+        [
+          8,
+          12,
+          "",
+          "human"
+        ],
+        [
+          30,
+          34,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Burlington has 15,000 MMBtu/d from Ignacio to Blanco and PG&E has 20,000 MMBtu/d from Blanco to EOT.",
+    "machine_entities": [
+      [
+        0,
+        10,
+        "ORG",
+        "machine"
+      ],
+      [
+        57,
+        61,
+        "ORG",
+        "machine"
+      ],
+      [
+        96,
+        99,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Christie, Meeting at 5:30 is fine with me.",
+    "machine_entities": [
+      [
+        0,
+        9,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Suzanne is adding your changes to the purchase agreement now.",
+    "machine_entities": [
+      [
+        0,
+        7,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "When: Wednesday, February 13, 2002 1:00 PM-2:00 PM (GMT-06:00) Central Time (US & Canada).",
+    "machine_entities": [
+      [
+        52,
+        61,
+        "ORG",
+        "machine"
+      ],
+      [
+        63,
+        70,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45351342": [
+        [
+          63,
+          70,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Jeff, Mark Elliot in Legal here in London is concerned that there may be tax or legal implications depending on how involved in the process London gets.",
+    "machine_entities": [
+      [
+        21,
+        26,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Tana, Attached you will find the comments on the NDA from BoozAllen Hamilton.",
+    "machine_entities": [
+      [
+        49,
+        52,
+        "ORG",
+        "machine"
+      ],
+      [
+        58,
+        67,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Marc - Please provide me with a brief description of the project or work that is going to be discussed with VMAC and a contact name/e-mail address.",
+    "machine_entities": [
+      [
+        108,
+        112,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "We will do the necessary conflict check and send the agreement to VMAC directly.",
+    "machine_entities": [
+      [
+        66,
+        70,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Attached is a copy of a note recently circulated regarding Antitrust Training.",
+    "machine_entities": [
+      [
+        59,
+        68,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "EIM trades pulp and paper on the Nymex.",
+    "machine_entities": [
+      [
+        33,
+        38,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "For the month of October Initial margin was (.3) and variation margin is .3, net zero for EIM.",
+    "machine_entities": [
+      [
+        90,
+        93,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "CGAS went into the Hawaii vehicle in March of 2001.",
+    "machine_entities": [
+      [
+        0,
+        4,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Rosalee -- Attached is the final version of the call memo for Dr. Lay.",
+    "machine_entities": [
+      [
+        0,
+        7,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Here are the two bills of sale for the Intergen transaction.",
+    "machine_entities": [
+      [
+        39,
+        47,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "We have received an executed Master Power Purchase and Sale Agreement dated 10/30/00 from the referenced CP.",
+    "machine_entities": [
+      [
+        29,
+        35,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Copies will be distributed to Legal and Credit.",
+    "machine_entities": [
+      [
+        30,
+        35,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Regulatory affairs department is updating the INGAA database and are requesting the following information from you.",
+    "machine_entities": [
+      [
+        46,
+        51,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45364130": [
+        [
+          46,
+          51,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Please open your EDI mailbox to retrieve them if you have not done so already.",
+    "machine_entities": [
+      [
+        17,
+        20,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "As a reminder, payments (market payments due-ISO and GMC) for the April preliminary invoices will be due at the ISO no later than 10:00 a.m. PST on Friday, June 29, 2001.",
+    "machine_entities": [
+      [
+        53,
+        56,
+        "ORG",
+        "machine"
+      ],
+      [
+        112,
+        115,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The ISO will transmit market payments due-SCs based on collections from SCs as soon thereafter as practicable.",
+    "machine_entities": [
+      [
+        4,
+        7,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45251863": [
+        [
+          4,
+          7,
+          "ORG",
+          "machine"
+        ],
+        [
+          42,
+          45,
+          "ORG",
+          "human"
+        ],
+        [
+          72,
+          75,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Please remember how critical it is for the ISO to receive all payments by 10:00 a.m. PST on the due date and the importance of using the correct account number which appears on each invoice.",
+    "machine_entities": [
+      [
+        43,
+        46,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "They have to be prepared by the ISDA group in Houston.",
+    "machine_entities": [
+      [
+        32,
+        36,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "A former ISDA trading attorney in Houston, Carol St. Claire, recently helped us negotiate a couple of ISDAs with Benton and Franklin PUD's.",
+    "machine_entities": [
+      [
+        9,
+        13,
+        "ORG",
+        "machine"
+      ],
+      [
+        124,
+        132,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "We should see if she can help us with this one, and if not, it has to go into the ISDA kingdom through a door opened by one Tana Jones.",
+    "machine_entities": [
+      [
+        82,
+        86,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Chris, Attached are driving directions to Nicor's Troy Grove site.",
+    "machine_entities": [
+      [
+        42,
+        47,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Per our discussions, please verify whether the site is in Illinois Power's territory.",
+    "machine_entities": [
+      [
+        58,
+        66,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Dave, in the Dunn Committee case, we just got a great order in our favor out of the courts.",
+    "machine_entities": [
+      [
+        13,
+        17,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "We need to try to leverage off this order to slow down the AG.",
+    "machine_entities": [
+      [
+        59,
+        61,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "While we were on the phone I sent GE an email about the issue.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "Zimin, Let's send flowers.",
+    "machine_entities": [
+      [
+        0,
+        5,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "It was covered extensively in today's LA Times.",
+    "machine_entities": [
+      [
+        38,
+        40,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Real Time Traders, Morrow Power wants to take their unit to the market to get some run time before they begin selling Firm energy.",
+    "machine_entities": [
+      [
+        0,
+        4,
+        "ORG",
+        "machine"
+      ],
+      [
+        19,
+        25,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "So I'd like the Real Time group to sell the unit at the best price in the hourly market.",
+    "machine_entities": [
+      [
+        16,
+        20,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "To sell the unit buy a BPA wheel using the accounts on the scheduling sheet.",
+    "machine_entities": [
+      [
+        23,
+        26,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Also, I've bought reserves from BPA to make these schedules firm for the hour.",
+    "machine_entities": [
+      [
+        32,
+        35,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45163668": [
+        [
+          32,
+          35,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Annette, The transport statement we received from Lone Star did not show that this gas flowed.",
+    "machine_entities": [
+      [
+        0,
+        7,
+        "ORG",
+        "machine"
+      ],
+      [
+        50,
+        54,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Here are some of the points Cinergy will cover on Monday.",
+    "machine_entities": [
+      [
+        28,
+        35,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The Plant will eventually be sold off to investors, but we will keep the contract for gas and power.",
+    "machine_entities": [
+      [
+        4,
+        9,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "We have been working with Gabbie in Argentina for the GSA.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "I am in SP if you would like to discuss.",
+    "machine_entities": [],
+    "human_entities": {}
+  },
+  {
+    "text": "I have added a swing on Mobil Oil and moved the Sale number over to the Swing column for Equistar.",
+    "machine_entities": [
+      [
+        24,
+        29,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45351342": [
+        [
+          24,
+          29,
+          "ORG",
+          "machine"
+        ],
+        [
+          89,
+          97,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Watch CNN or log on to http://CNN.com /AOL Keyword: CNN for the latest news.",
+    "machine_entities": [
+      [
+        6,
+        9,
+        "ORG",
+        "machine"
+      ],
+      [
+        52,
+        55,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The Pulp Weekly Meeting scheduled by Rodney Malcolm for Monday, October 29th at 9:00am to 10:00am will be held in video conference room 30C2 (old building).",
+    "machine_entities": [
+      [
+        0,
+        3,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "Contact Client Services regarding PIRA report distribution and address changes at (212) 686-6808, email: support@pira.com.",
+    "machine_entities": [
+      [
+        0,
+        7,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "NOTE: Circulation of the \"Gas Flash Weekly\" outside a Client's licensed distribution area is strictly prohibited.",
+    "machine_entities": [
+      [
+        54,
+        60,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45364130": [
+        [
+          26,
+          29,
+          "ORG",
+          "human"
+        ],
+        [
+          30,
+          35,
+          "ORG",
+          "human"
+        ],
+        [
+          36,
+          42,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Please note that Maclaren Energy Inc. and Sierra Power Corp have been added to the watchlist.",
+    "machine_entities": [
+      [
+        17,
+        25,
+        "ORG",
+        "machine"
+      ],
+      [
+        42,
+        48,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "The Outages attached below have some potential flow impact, or are points of interest.",
+    "machine_entities": [
+      [
+        4,
+        11,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45302262": [
+        [
+          4,
+          11,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Our internal RAC models assign roughly BB credit rating to Enron.",
+    "machine_entities": [
+      [
+        13,
+        16,
+        "ORG",
+        "machine"
+      ],
+      [
+        39,
+        41,
+        "ORG",
+        "machine"
+      ],
+      [
+        59,
+        64,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45414668": [
+        [
+          13,
+          16,
+          "ORG",
+          "machine"
+        ],
+        [
+          39,
+          41,
+          "",
+          "human"
+        ],
+        [
+          59,
+          64,
+          "ORG",
+          "machine"
+        ]
+      ],
+      "43752651": [
+        [
+          13,
+          16,
+          "",
+          "human"
+        ],
+        [
+          39,
+          41,
+          "",
+          "human"
+        ],
+        [
+          59,
+          64,
+          "ORG",
+          "machine"
+        ]
+      ],
+      "33519110": [
+        [
+          13,
+          16,
+          "",
+          "human"
+        ],
+        [
+          39,
+          41,
+          "",
+          "human"
+        ],
+        [
+          59,
+          64,
+          "ORG",
+          "machine"
+        ]
+      ],
+      "45364130": [
+        [
+          13,
+          16,
+          "",
+          "human"
+        ],
+        [
+          39,
+          41,
+          "",
+          "human"
+        ],
+        [
+          59,
+          64,
+          "ORG",
+          "machine"
+        ]
+      ],
+      "45351342": [
+        [
+          13,
+          16,
+          "",
+          "human"
+        ],
+        [
+          59,
+          64,
+          "ORG",
+          "machine"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Twanda, would you please make this a form entitled \"Canada Release\" and then draft one for John Gorman?",
+    "machine_entities": [
+      [
+        0,
+        6,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45405007": [
+        [
+          0,
+          6,
+          "ORG",
+          "machine"
+        ],
+        [
+          52,
+          58,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "What type of income is potentially subject to w/h tax?",
+    "machine_entities": [],
+    "human_entities": {
+      "45310770": [
+        [
+          0,
+          4,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Deloitte is auditing our NGX feed process and they need to be able to check the integrity of our data.",
+    "machine_entities": [
+      [
+        0,
+        8,
+        "ORG",
+        "machine"
+      ],
+      [
+        25,
+        28,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45414668": [
+        [
+          0,
+          8,
+          "ORG",
+          "machine"
+        ]
+      ],
+      "43752651": [
+        [
+          0,
+          8,
+          "ORG",
+          "human"
+        ],
+        [
+          25,
+          28,
+          "",
+          "human"
+        ]
+      ],
+      "45364130": [
+        [
+          0,
+          8,
+          "ORG",
+          "machine"
+        ],
+        [
+          25,
+          28,
+          "",
+          "human"
+        ]
+      ],
+      "33519110": [
+        [
+          0,
+          8,
+          "ORG",
+          "machine"
+        ],
+        [
+          25,
+          28,
+          "",
+          "human"
+        ]
+      ],
+      "45351342": [
+        [
+          0,
+          8,
+          "ORG",
+          "machine"
+        ],
+        [
+          25,
+          28,
+          "",
+          "human"
+        ]
+      ],
+      "45251863": [
+        [
+          0,
+          8,
+          "ORG",
+          "human"
+        ],
+        [
+          25,
+          28,
+          "",
+          "human"
+        ]
+      ],
+      "45409983": [
+        [
+          0,
+          8,
+          "ORG",
+          "machine"
+        ],
+        [
+          25,
+          28,
+          "",
+          "human"
+        ]
+      ],
+      "20167536": [
+        [
+          0,
+          8,
+          "ORG",
+          "machine"
+        ],
+        [
+          25,
+          28,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Do you have research regarding legality/enforceability since the 1997 global review which ENA conducted through Allen & Overy?",
+    "machine_entities": [
+      [
+        90,
+        93,
+        "ORG",
+        "machine"
+      ],
+      [
+        112,
+        117,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I added Meredith's photo to the web page below last night.",
+    "machine_entities": [
+      [
+        8,
+        16,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I got him a subscription to Sports Illustrated and was thinking about getting him DVD player.",
+    "machine_entities": [
+      [
+        28,
+        34,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {}
+  },
+  {
+    "text": "I assume that all ENA Upstream deal makers going forward know they should be going through you.",
+    "machine_entities": [
+      [
+        18,
+        21,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45163668": [
+        [
+          18,
+          21,
+          "",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "The ERCOT Board accepted the 3 CSC 4 CM Zone model for use in commercial congestion management for 2002.",
+    "machine_entities": [
+      [
+        0,
+        3,
+        "ORG",
+        "machine"
+      ]
+    ],
+    "human_entities": {
+      "45251863": [
+        [
+          0,
+          3,
+          "",
+          "human"
+        ],
+        [
+          4,
+          9,
+          "ORG",
+          "human"
+        ]
+      ],
+      "45404154": [
+        [
+          0,
+          3,
+          "",
+          "human"
+        ],
+        [
+          4,
+          9,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  },
+  {
+    "text": "Paul I am still looking for information relating to monies that El Paso paid us that should have gone to AEP.",
+    "machine_entities": [],
+    "human_entities": {
+      "45351342": [
+        [
+          64,
+          66,
+          "ORG",
+          "human"
+        ]
+      ]
+    }
+  }
+]
