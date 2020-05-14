@@ -55,6 +55,6 @@ Further simplification of enron dataset is needed to properly evaluate spacy's p
 
 3. Some of the errors made were due to missing context in sentences.
 
-4. The crowdsourced can be used ,but I found a lot of redundant labeling for example some of human labels should be empty as in agreeing with machine label but are give exact same values as the machine labeled dictionary .
+4. The crowdsourced can be used ,but I found a lot of redundant labeling for example some of human labels should be empty as in agreeing with machine label but are give exact same values as the machine labeled dictionary .Which hampered processing of dataset for evaluation.
 
 
